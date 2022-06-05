@@ -1,0 +1,54 @@
+ALL COMMANDS:
+
+!help - show all commands / wyświetla wszystkie komendy
+
+!d4 - roll D4 die
+!d6 - roll D6 die
+!d8 - roll D8 die
+!d10 - roll D10 die
+!d12 - roll D12 die
+!d20 - roll D20 die
+!d100 dec - roll D10 die with decimals only (00~90)
+!coin - toss coin
+!d100 - roll D100 die (1~100)
+!d99 - roll D100 die (0~99)
+!d2 - roll D2 die (instead of D6/3)
+!d3 - roll D3 die (instead of D6/2)
+
+!k4 - rzuć kością K4
+!k6 - rzuć kością K6
+!k8 - rzuć kością K8
+!k10 - rzuć kością K10
+!k12 - rzuć kością K12
+!k20 - rzuć kością K20
+!k100 dzies - rzuć kością K10 z samymi dziesiątkami (00~90)
+!moneta - rzuć monetą
+!k100 - rzuć kością K100 (1~100)
+!k99 - rzuć kością K100 (0~99)
+!k2 - rzuć kością K2 (zamiast K6/3)
+!k3 - rzuć kością K3 (zamiast K6/2)
+
+RESULT VISIBLE ONLY TO GM / WYNIK WIDOCZNY TYLKO DLA MG
+!gm4 - roll D4 die
+!gm6 - roll D6 die
+!gm8 - roll D8 die
+!gm10 - roll D10 die
+!gm12 - roll D12 die
+!gm20 - roll D20 die
+!gm100 dec - roll D10 die with decimals only (00~90)
+!gmcoin - toss coin
+!gm100 - roll D100 die (1~100)
+!gm99 - roll D100 die (0~99)
+!gm2 - roll D2 die (instead of D6/3)
+!gm3 - roll D3 die (instead of D6/2)
+
+BOT CAN PLAY MUSIC ONLY ON ONE CHANNEL AT THE TIME / BOT MOŻE GRAĆ MUZYKĘ TYLKO NA JEDNYM KANALE NA RAZ
+!play
+!mp3
+!stop
+!pause
+!resume
+!volume <number> - set volume from 1 to 100
+
+!dc - disconnects bot from channel / rozłącza bota z kanału
+!q - bot quits server / bot wychodzi z serwera
