@@ -2,4 +2,4 @@
 
 This is a very early prototype.
 
-WIP
+Work in progress
